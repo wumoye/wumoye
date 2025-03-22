@@ -14,20 +14,21 @@
 -->
 
 ### 🚀 About Me
-- 💻 Full-stack developer with expertise in **Flutter, React, TypeScript, Java, and Spring Boot**.
-- 🎯 Currently working on **Android & iOS apps using Flutter**.
-- 🌱 Learning **AI and exploring SaaS development**.
+- 💻 Full-stack developer with expertise in **React, TypeScript, Java, and Spring Boot**.
+- 🎯 Currently working on **web development with React** and **backend development with Java**.
+- 🌱 Learning **Flutter** to develop **cross-platform mobile apps**.
+- 🌱 Exploring **AI and SaaS development**.
 - ⚡ Fun Fact: **"Code is like humor. When you have to explain it, it’s bad."**
-<!--- 📬 Reach me at [wumoye@example.com](mailto:wumoye@example.com).-->
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
@@ -51,28 +52,17 @@
 ---
 
 ### 🎯 Goal for 2025
-- ✅ Build & launch **ID Photo Maker** app 📸
-- 🔄 Release **Mail & Calendar App** with AI-powered scheduling 🕒
-- 🎉 Build a SaaS platform to help freelancers manage projects 📊
-- 🌐 Learn & deploy **AI models** in production 💡
+- 🧠 **Conceptualizing** ID Photo Maker app 📸
+- 🧠 **Planning** Mail & Calendar App with AI-powered scheduling 🕒
+- 🚧 **Exploring** AI and SaaS development when I have time 💡
 
 ---
 
 ### 🌟 Latest Projects
 - 📸 **ID Photo Maker** - Flutter app for creating passport photos.
 - 📬 **Mail & Calendar App** - Personal productivity tool (WIP).
-- 📝 **Expense Tracker** - SaaS platform for personal finance tracking (coming soon).
 
 ---
-
-<!--
-### 🕰️ Current Time
-<p align="center">
-  <img src="https://www.worldtimeapi.org/api/timezone/Asia/Tokyo" />
-</p>
-
----
--->
 
 ### 🎁 Fun Fact
 > "Don't explain your philosophy. Embody it." – **Epictetus**
